@@ -71,6 +71,13 @@ text-shadow:
     1px -1px 0 #000,
     -1px 1px 0 #000,
     1px 1px 0 #000; 
+    box-shadow: 0 9px #999;
+}
+
+.button1:hover {
+
+background-color: #9e74f2;
+
 }
 
 .button2 {
@@ -94,7 +101,14 @@ text-shadow:
     1px -1px 0 #000,
     -1px 1px 0 #000,
     1px 1px 0 #000; 
+    box-shadow: 0 9px #999;
 
+}
+
+.button2:hover {
+
+    background-color: #9e74f2;
+    
 }
 
 .link1 {
@@ -113,6 +127,7 @@ text-shadow:
 
 .paragraph4 {
     
+    position: relative;
     background-color: #bb99ff;
     color: #470990;
     padding: 10px 16px;
@@ -124,13 +139,16 @@ text-shadow:
     border: 0.5px solid black;
     font-family: sans-serif;
     margin-left: 90px;
-    border: 3px white;
+    border: 3px #470990;
+    bottom: 20px;
+    left: 215px;
      
     
 }
 
 .paragraph5 {
 
+    position: relative;
     background-color: #bb99ff;
     color: #470990;
     padding: 10px 16px;
@@ -141,8 +159,9 @@ text-shadow:
     margin: 2px 1px;
     border: 0.5px solid black;
     font-family: sans-serif;
-    right: 100px;
-    border: 10px white;
+    right: 225px;
+    border: 10px #470990;
+    bottom: -30px;
      
     
 }
@@ -207,4 +226,66 @@ background-color: #e8e2f4;
     1px -1px 0 #000,
     -1px 1px 0 #000,
     1px 1px 0 #000; 
+}
+
+.head4 {
+
+   text-align: center;
+    font-family: sans-serif;
+    color: #9778f4;
+    
+}
+
+.image1 {
+
+  position: relative; 
+  bottom: 150px;
+  right: 10px;
+  left: 90px;
+  width: 350px;
+  height: 200px;
+  border-radius: 50%; 
+
+}
+
+.paragraph6 {
+
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+     
+
+}
+
+.container3 {
+
+    position: relative;
+    padding: 10px; 
+    width: 300px;
+    height: 115px;
+    right: px; 
+    top: 10px;
+    background-color: #bb99ff; 
+    font-family: sans-serif;
+    text-align: justify;
+    margin-left: 650px;
+    
+}
+
+.link3 {
+   
+    position: relative;
+    left: 630px;
+
+}
+
+.line {
+
+    
+
 }
