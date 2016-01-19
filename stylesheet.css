@@ -1,6 +1,11 @@
 .title {
 text-align: center;
 font-family: sans-serif;
+text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000; 
 
 }
 
@@ -10,6 +15,7 @@ font-family: sans-serif;
 bottom: 95px;
 top: 0px;
 color: #8a56f0;
+
 
 }
 
@@ -21,7 +27,12 @@ position: absolute;
 .paragraph1 {
 text-align: center;
 font-family: sans-serif;
-color: white; 
+color: white;
+text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000; 
  
 
 }
@@ -55,6 +66,11 @@ color: white;
     border: 0.5px solid black;
     font-family: sans-serif;
     margin-left: 110px; 
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000; 
 }
 
 .button2 {
@@ -73,6 +89,11 @@ color: white;
     font-family: sans-serif;
     margin-left: 500px; 
     top: 60px; 
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000; 
 
 }
 
@@ -103,9 +124,9 @@ color: white;
     border: 0.5px solid black;
     font-family: sans-serif;
     margin-left: 90px;
-    border: 3px white; 
+    border: 3px white;
+     
     
-
 }
 
 .paragraph5 {
@@ -121,7 +142,8 @@ color: white;
     border: 0.5px solid black;
     font-family: sans-serif;
     right: 100px;
-    border: 10px white; 
+    border: 10px white;
+     
     
 }
 
@@ -143,6 +165,11 @@ background-color: #e8e2f4;
     text-align: center;
     font-family: sans-serif;
     color: #f1eff7;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000; 
 }
 
 .head3 {
@@ -150,6 +177,11 @@ background-color: #e8e2f4;
     text-align: center;
     font-family: sans-serif;
     color: #f1eff7;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000; 
 }
 
 .paragraph2 {
@@ -157,6 +189,11 @@ background-color: #e8e2f4;
     text-align: center;
     font-family: sans-serif;
     color: #f1eff7;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000; 
     
 }
 
@@ -165,4 +202,9 @@ background-color: #e8e2f4;
     text-align: center;
     font-family: sans-serif;
     color: #f1eff7;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000; 
 }
