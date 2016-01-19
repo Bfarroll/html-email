@@ -20,8 +20,9 @@ color: #8a56f0;
 }
 
 .link1 {
-position: absolute;
     
+   position: relative;
+   left: 100px;     
 }
 
 .paragraph1 {
@@ -39,11 +40,12 @@ text-shadow:
 
 .container {
     
+    position: relative;
     padding: 15px; 
     width: 300px;
     height: 115px;
-    right: 200px; 
-    top: 1000px;
+    right: -185px; 
+    top: 1px;
     background-color: #bb99ff; 
     font-family: sans-serif;
     text-align: justify;
@@ -72,6 +74,8 @@ text-shadow:
     -1px 1px 0 #000,
     1px 1px 0 #000; 
     box-shadow: 0 9px #999;
+    position: relative;
+    left: 200px;
 }
 
 .button1:hover {
@@ -95,13 +99,15 @@ background-color: #9e74f2;
     border: 0.5px solid black;
     font-family: sans-serif;
     margin-left: 500px; 
-    top: 60px; 
+    top: 1px; 
     text-shadow:
     -1px -1px 0 #000,
     1px -1px 0 #000,
     -1px 1px 0 #000,
     1px 1px 0 #000; 
     box-shadow: 0 9px #999;
+    position: relative;
+    left: 200px;
 
 }
 
@@ -141,7 +147,7 @@ background-color: #9e74f2;
     margin-left: 90px;
     border: 3px #470990;
     bottom: 20px;
-    left: 215px;
+    left: 425px;
      
     
 }
@@ -159,7 +165,7 @@ background-color: #9e74f2;
     margin: 2px 1px;
     border: 0.5px solid black;
     font-family: sans-serif;
-    right: 225px;
+    right: 15px;
     border: 10px #470990;
     bottom: -30px;
      
@@ -237,11 +243,11 @@ background-color: #e8e2f4;
 }
 
 .image1 {
-
+  text-align: center;
   position: relative; 
   bottom: 150px;
   right: 10px;
-  left: 90px;
+  left: 200px;
   width: 350px;
   height: 200px;
   border-radius: 50%; 
@@ -273,14 +279,17 @@ background-color: #e8e2f4;
     background-color: #bb99ff; 
     font-family: sans-serif;
     text-align: justify;
-    margin-left: 650px;
+    margin-left: 900px;
+    text-align: center;
     
 }
 
 .link3 {
    
     position: relative;
-    left: 630px;
+    left: 990px;
+    text-align: center;
+    
 
 }
 
