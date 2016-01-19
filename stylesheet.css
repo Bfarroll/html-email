@@ -12,7 +12,62 @@ font-family: sans-serif;
 
 .link1 {
 position: absolute;
-    left: 100px;
-    top: 200px;
+    
+}
+
+.paragraph1 {
+text-align: center;
+font-family: sans-serif;
+color: white; 
+ 
+
+}
+
+.container {
+    
+    padding: 15px; 
+    width: 300px;
+    height: 115px;
+    right: 200px; 
+    top: 1000px;
+    background-color: #bb99ff; 
+    font-family: sans-serif;
+    text-align: justify;
+    margin-left: 350px; 
+    
+}
+
+.button1 {
+    
+    background-color: #bb99ff;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: 3px solid black;
+    font-family: sans-serif;
+    margin-left: 320px; 
+}
+
+.button2 {
+    
+    background-color: #bb99ff;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: 3px solid black;
+    font-family: sans-serif;
+    margin-left: 50px; 
 
 }
